@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @burakelci12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+👋Merhaba ben Burak Elçi 
+
+Üstünde çalışmış olduğum eğitim ve proje odaklı kodlardan bazılarını sizlerle paylaşıyor olacağım.
 
 
 <!---
